@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1526897636 source:f:\codeng\gcdlib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GCDL_parser.h"
+	"GCDL_iterator.h"
+
+1526885724 source:f:\codeng\gcdlib\src\gcdl_parser.c
+	"GCDL_parser.h"
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+
+1526856936 f:\codeng\gcdlib\include\gcdl_parser.h
+	<stdio.h>
+	<GCDL_structures.h>
+
+1526878372 f:\codeng\gcdlib\include\gcdl_structures.h
+	<stdlib.h>
+
+1526857024 source:f:\codeng\gcdlib\src\gcdl_type_check.c
+	"GCDL_type_check.h"
+	"GCDL_structures.h"
+
+1526805366 f:\codeng\gcdlib\include\gcdl_type_check.h
+	"GCDL_structures.h"
+
+1526890580 f:\codeng\gcdlib\include\gcdl_iterator.h
+	"GCDL_structures.h"
+
+1526897726 source:f:\codeng\gcdlib\src\gcdl_iterator.c
+	"GCDL_iterator.h"
+
+1530226049 source:s:\codeng\gcdlib\src\gcdl_iterator.c
+	"GCDL_iterator.h"
+	<GCDL_parser.h>
+
+1528694732 s:\codeng\gcdlib\include\gcdl_iterator.h
+	"GCDL_structures.h"
+
+1530230673 s:\codeng\gcdlib\include\gcdl_structures.h
+	<stdlib.h>
+	<UString.h>
+
+1530314332 source:s:\codeng\gcdlib\src\gcdl_parser.c
+	"GCDL_parser.h"
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+
+1530230558 s:\codeng\gcdlib\include\gcdl_parser.h
+	<stdio.h>
+	<GCDL_structures.h>
+	<UString.h>
+
+1531033841 source:s:\codeng\gcdlib\src\gcdl_type_check.c
+	"GCDL_type_check.h"
+	"GCDL_structures.h"
+
+1531033776 s:\codeng\gcdlib\include\gcdl_type_check.h
+	"GCDL_structures.h"
+
+1530277737 source:s:\codeng\gcdlib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GCDL_parser.h"
+	"GCDL_iterator.h"
+
+1530484283 source:s:\codeng\gcdlib\src\ustring.c
+	"UString.h"
+	<stdlib.h>
+	<string.h>
+
+1530277540 s:\codeng\gcdlib\include\ustring.h
+	<stdlib.h>
+
